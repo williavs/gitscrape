@@ -1,0 +1,27 @@
+# Environment variables
+.env
+.env.*
+!.env.template
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
+
+# System
+.DS_Store
+*.log
+*.txt
+*.json
+*.csv
+*.md
